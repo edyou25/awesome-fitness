@@ -4,7 +4,7 @@ Awesome Fitness Documentation
 .. image:: https://awesome.re/badge.svg
    :target: https://awesome.re
    :alt: Awesome
-   :align: right
+   :align: left
 
 **Awesome Fitness** is a comprehensive, evidence-based resource repository that brings together the best fitness knowledge, training methodologies, nutrition science, and practical tools in one place.
 
@@ -28,5 +28,4 @@ Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
