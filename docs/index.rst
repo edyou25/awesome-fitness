@@ -18,6 +18,13 @@ Whether you're a beginner starting your fitness journey or an experienced athlet
    :caption: Contents:
 
    overview
+   knowledge
+   training-programs
+   nutrition
+   equipment
+   tools
+   research
+   community
    contributing
 
 Overview
