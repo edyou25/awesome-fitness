@@ -1,21 +1,17 @@
 LLM Chat Resources
 ==================
 
-- `ChatGPT (OpenAI) <https://chat.openai.com/>`_
-- `Claude (Anthropic) <https://claude.ai/>`_
-- `Gemini (Google) <https://gemini.google.com/>`_
-- `Poe (Quora, Multimodel) <https://poe.com/>`_
-- `OpenRouter (Aggregated LLMs) <https://openrouter.ai/chat>`_
-- `Perplexity AI (Search & Chat) <https://www.perplexity.ai/>`_
-- `HuggingChat (Open Source) <https://huggingface.co/chat/>`_
-
-Fitness AI Tools
----------------------------
-
-- `FitGPT (AI Fitness Coach) <https://fitgpt.co/>`_
-- `GymGenie (Workout Plan Generator) <https://gymgenie.app/>`_
-- `Fitr AI Trainer (Exercise Recognition & Guidance) <https://fitr.training/aitrainer>`_
-- `FlexAI (Personalized Training Recommendations) <https://flexai.co/>`_
-- `Aaptiv Coach (AI-powered Audio Trainer) <https://aaptiv.com/coach>`_
-- `Kaia Personal Trainer (AI Motion Correction) <https://www.kaiahealth.com/>`_
-
+- `ChatGPT (OpenAI) <https://chat.openai.com/>`_ - The most popular LLM-based chatbot globally.
+- `Claude (Anthropic) <https://claude.ai/>`_ - Known for helpfulness and safety.
+- `Gemini (Google) <https://gemini.google.com/>`_ - Google's flagship conversational AI.
+- `Microsoft Copilot <https://copilot.microsoft.com/>`_ - Microsoft’s AI assistant powered by GPT-4 and Bing, integrated across Microsoft products.
+- `Meta AI <https://www.meta.ai/>`_ - Meta’s chatbot based on Llama, available on social platforms and the web.
+- `DeepSeek Chat <https://chat.deepseek.com/>`_ - Developer-oriented LLM chatbot with strong support for Chinese and English.
+- `Doubao (ByteDance) <https://chat.doubao.com/>`_ - ByteDance’s LLM chatbot, popular in China.
+- `Poe (Quora) <https://poe.com/>`_ - Aggregates several LLMs (GPT-4, Claude, Llama, Gemini, and more) in one interface.
+- `OpenRouter <https://openrouter.ai/chat>`_ - Unified chat platform supporting many LLMs from different providers.
+- `Perplexity AI <https://www.perplexity.ai/>`_ - Conversational search agent with advanced reasoning and up-to-date web results.
+- `HuggingChat (Hugging Face) <https://huggingface.co/chat/>`_ - Open-source LLM chatbot.
+- `Baidu ERNIE Bot <https://yiyan.baidu.com/>`_ - Baidu’s flagship LLM for Chinese users.
+- `Tongyi Qianwen (Alibaba) <https://tongyi.aliyun.com/qianwen/>`_ - Alibaba’s enterprise-grade conversational AI.
+- `Tencent Hunyuan <https://hunyuan.tencent.com/bot/chat>`_ - Tencent’s LLM-based chatbot widely used in China.
