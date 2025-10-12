@@ -2,6 +2,9 @@ Awesome Fitness Documentation
 ==============================
 
 .. image:: https://awesome.re/badge.svg
+   :target: https://awesome.re
+   :alt: Awesome
+   :align: right
 
 
 This is a training knowledge base
