@@ -30,7 +30,7 @@ generate_commit_message() {
     changed_files=$(git diff --cached --name-only)
     
     if echo "$changed_files" | grep -q "docs/"; then
-        echo "Update documentation: $changed_files"
+        echo -e "Update documentation:\n$changed_files"
     elif echo "$changed_files" | grep -q "README.md"; then
         echo "Update README"
     elif echo "$changed_files" | grep -q "deploy"; then
