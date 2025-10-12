@@ -100,9 +100,9 @@ If you find this project helpful, please consider:
 Contact
 =======
 
-* GitHub: `awesome-fitness <https://github.com/your-username/awesome-fitness>`_
-* Issues: `Report a bug <https://github.com/your-username/awesome-fitness/issues>`_
-* Discussions: `Join the conversation <https://github.com/your-username/awesome-fitness/discussions>`_
+* GitHub: `awesome-fitness <https://github.com/edyou25/awesome-fitness>`_
+* Issues: `Report a bug <https://github.com/edyou25/awesome-fitness/issues>`_
+* Discussions: `Join the conversation <https://github.com/edyou25/awesome-fitness/discussions>`_
 
 Indices and tables
 ==================
