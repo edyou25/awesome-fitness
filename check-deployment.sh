@@ -30,8 +30,19 @@ if curl -s -o /dev/null -w "%{http_code}" https://edyou25.github.io/awesome-fitn
     echo "✅ 网站已成功部署并可访问！"
     echo "🔗 访问地址: https://edyou25.github.io/awesome-fitness/"
 else
-    echo "⏳ 网站正在部署中或尚未部署完成..."
-    echo "请稍等几分钟后再次检查"
+    echo "❌ 网站部署失败或GitHub Pages未启用"
+    echo ""
+    echo "🔧 自动修复建议："
+    echo "1. 检查GitHub Pages设置："
+    echo "   https://github.com/edyou25/awesome-fitness/settings/pages"
+    echo "2. 确保Source设置为 'Deploy from a branch' 或 'GitHub Actions'"
+    echo "3. 如果使用GitHub Actions，确保工作流程文件正确"
+    echo ""
+    echo "📋 手动启用GitHub Pages的步骤："
+    echo "1. 访问仓库设置页面"
+    echo "2. 滚动到 'Pages' 部分"
+    echo "3. 在 'Source' 下选择 'GitHub Actions'"
+    echo "4. 保存设置"
 fi
 
 echo ""
