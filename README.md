@@ -3,74 +3,30 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Build and Deploy Documentation](https://github.com/edyou25/awesome-fitness/actions/workflows/docs.yml/badge.svg)](https://github.com/edyou25/awesome-fitness/actions/workflows/docs.yml)
 
-**Awesome Fitness** is a comprehensive, evidence-based resource repository that brings together the best fitness knowledge, training methodologies, nutrition science, and practical tools in one place.
+专业的健身训练计划资源库，提供科学、系统的训练方案。
 
-## 🌐 Documentation Website
+## 🌐 在线文档
 
-**Visit our professional documentation**: https://edyou25.github.io/awesome-fitness/
+**访问专业文档网站**: https://edyou25.github.io/awesome-fitness/
 
-Built with Sphinx and Read the Docs theme, featuring:
-- 📚 Comprehensive knowledge base
-- 🔍 Full-text search
-- 📱 Responsive design
-- 🚀 Auto-deployment from GitHub
+## 📋 训练计划
 
-## 📁 Project Structure
+- 💪 **力量训练** - 初级到高级的力量训练方案
+- 🏃 **有氧训练** - HIIT、稳态有氧、循环训练
+- 🤸 **柔韧性训练** - 拉伸、瑜伽、灵活性训练
+- 🏆 **专项训练** - 跑步、骑行、游泳等专项计划
 
-See [STRUCTURE.md](STRUCTURE.md) for detailed directory organization and project architecture.
+## 🚀 快速开始
 
-### Quick Overview
-```
-awesome-fitness/
-├── 📚 docs/                    # Sphinx documentation
-├── 🏋️ knowledge/              # Exercise science & principles
-├── 💪 training-programs/       # Workout plans & methods
-├── 🥗 nutrition/              # Nutrition science & guidance
-├── 🏋️ equipment/              # Equipment reviews & guides
-├── 📱 tools/                  # Apps, calculators & resources
-├── 🔬 research/               # Scientific studies & findings
-└── 👥 community/              # Forums, organizations & events
-```
+1. **评估水平** - 选择适合的训练级别
+2. **选择重点** - 确定训练目标
+3. **执行计划** - 按计划坚持训练
+4. **跟踪进步** - 记录训练效果
 
-## 🚀 Getting Started
+## 📄 许可证
 
-### For Beginners
-Start with the [Knowledge Base](knowledge/) to understand fundamental exercise science concepts.
-
-### For Intermediate Users
-Explore [Training Programs](training-programs/) for structured workout approaches.
-
-### For Advanced Users
-Dive into [Research](research/) for cutting-edge scientific findings.
-
-### For Professionals
-Check [Community](community/) resources for networking and professional development.
-
-## 📋 Quick Links
-
-- [📚 Knowledge Base](knowledge/) - Exercise science & principles
-- [💪 Training Programs](training-programs/) - Workout plans & methods  
-- [🥗 Nutrition](nutrition/) - Nutrition science & guidance
-- [🏋️ Equipment](equipment/) - Equipment reviews & guides
-- [📱 Tools & Apps](tools/) - Digital resources & calculators
-- [🔬 Research](research/) - Scientific studies & findings
-- [👥 Community](community/) - Forums & organizations
-
-## 🤝 Contributing
-
-We welcome contributions from the fitness community! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🔗 Links
-
-- **Documentation**: https://edyou25.github.io/awesome-fitness/
-- **GitHub**: https://github.com/edyou25/awesome-fitness
-- **Issues**: https://github.com/edyou25/awesome-fitness/issues
-- **Discussions**: https://github.com/edyou25/awesome-fitness/discussions
+MIT License - 详见 [LICENSE](LICENSE) 文件
 
 ---
 
-*Built with ❤️ by the fitness community*
+*用 ❤️ 为健身社区打造*
