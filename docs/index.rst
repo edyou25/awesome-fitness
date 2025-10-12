@@ -14,7 +14,9 @@ This is a training knowledge base
    :maxdepth: 2
    :caption: Contents:
 
+   ai
    anatomy
+   nutrition
 
 
 .. note::
