@@ -7,7 +7,13 @@ Some fitness knowledge and information about exercise.
 
 
 ```bash
-# Build and view locally
+# Local preview
+./deploy -l
+
+# Remote deployment  
+./deploy -r
+
+# Manual build
 conda activate ielts-env
 cd docs && sphinx-build -b html . _build/html
 cd _build/html && python -m http.server 8000
