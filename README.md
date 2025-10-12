@@ -1,6 +1,7 @@
 # Awesome Fitness
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Build and Deploy Documentation](https://github.com/edyou25/awesome-fitness/actions/workflows/docs.yml/badge.svg)](https://github.com/edyou25/awesome-fitness/actions/workflows/docs.yml)
 
 **Awesome Fitness** is a curated list of fitness knowledge and resources covering all aspects of exercise and training. This repository provides a comprehensive collection of evidence-based information, tools, and resources for fitness enthusiasts, trainers, and researchers.
 
