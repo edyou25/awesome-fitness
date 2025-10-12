@@ -14,7 +14,7 @@ This is a training knowledge base
    :maxdepth: 2
    :caption: Contents:
 
-   training-programs
+   anatomy
 
 
 .. note::
